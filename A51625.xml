@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of His Grace Alexander, Earl of Morray, His Majesties high commissioner, at the opening of the second session of the first parliament of His Majesties ancient kingdom of Scotland, the 29th of April, 1686</title>
+            <author>Moray, Alexander Stewart, Earl of, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51625</idno>
+            <idno type="STC">Wing M3106</idno>
+            <idno type="STC">ESTC R10971</idno>
+            <idno type="EEBO-CITATION">12714984</idno>
+            <idno type="OCLC">ocm 12714984</idno>
+            <idno type="VID">66163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 818:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of His Grace Alexander, Earl of Morray, His Majesties high commissioner, at the opening of the second session of the first parliament of His Majesties ancient kingdom of Scotland, the 29th of April, 1686</title>
+                  <author>Moray, Alexander Stewart, Earl of, d. 1701.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66163:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE SPEECH Of His GRACE ALEXANDER EARL OF MORRAY, His <hi>Majeſties</hi> HIGH COMMISSIONER;</p>
+            <p>At the Opening of the Second Seſſion of the Firſt Parliament of His <hi>Majeſties</hi> Ancient Kingdom of <hi>Scotland.</hi> The 29<hi rend="sup">th</hi> of <hi>April,</hi> 1686.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sa<g ref="char:EOLhyphen"/>cred <hi>Majeſty, Anno DOM.</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66163:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:66163:2"/>
+            <!-- PDF PAGE 2 -->
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THE great Senſe which His Sacred <hi>Majeſty</hi> retains of your Loyalty, Duty and Zeal for His Service, and of your ſignal Affection to His Perſon and Intereſt, ſo kindly expreſſed in your Proceedings of the laſt Seſſion, hath determined Him to Meet you again ſo ſoon in this; To the end, that as you did then by very ſeaſonable Proofs of your dutiful Obedience, even during the raging inſolence of an unnatural Rebel<g ref="char:EOLhyphen"/>lion, demonſtrat your Loyalty and firm Adherence to the Crown; ſo His <hi>Majeſty</hi> would not be wanting on His Part, to ſhew His Paternal and Royal Care of you His Ancient and Loving People, by giving you freſh Oppor<g ref="char:EOLhyphen"/>tunities, of doing ſuch things as may tend to the univerſal Good of the Na<g ref="char:EOLhyphen"/>tion, as a generous Return to your Affections.</p>
+            <p>As all the States and Ranks of men in this Kingdom have been moſt emi<g ref="char:EOLhyphen"/>nent in their Loyalty, Love and Deference to His <hi>Majeſty</hi> in their ſeveral De<g ref="char:EOLhyphen"/>grees and Capacities, both when he Honoured you with His Royal Preſence, and ſince; So His <hi>Majeſty</hi> is Graciouſly Reſolved, that you ſhall in your ſeveral ſtations, ſhare of the Effects and Influences of His Royal Care, Ten<g ref="char:EOLhyphen"/>derneſs and Protection, by Marks of His Royal Favour, which He intends ſhal be as Comprehenſive and General, for the Security and Happineſs of you all, as your Duty and Kindneſs towards Him have been remarkable.</p>
+            <p>Purſuant to this, I am to aſſure you that His <hi>Majeſty</hi> doth indeavour with all imaginable Care to open a free intercourſe of Trade with His Kingdom of <hi>England,</hi> as one of the ſureſt ways to ſave His Royal Burrows from the Ruine Threatned by the decay of Commerce, and will leave nothing uneſ<g ref="char:EOLhyphen"/>ſayed that may Promot a Work ſo beneficial to this Kingdom.</p>
+            <p>And for your further Encouragement, the King hath fully Inſtructed His Envoy at the Court of <hi>France,</hi> to uſe his utmoſt Endeavours for having the fifty <hi>Solz per Tunn</hi> diſcharged, and for recovering the Poſſeſſion of the other Priviledges of the <hi>Scots</hi> Merchants Trading with that Kingdom, which have been now a long time ſuffered to run into Deſuetude.</p>
+            <p>And His <hi>Majeſty</hi> conceiving that the Burghs of Regality and Barony, en<g ref="char:EOLhyphen"/>joy more of that Trade, for which the Burrows Royal bear the ſixth part of the Ceſs of the Nation than does juſtly fall to their ſhare; Has therefore been Graciouſly Pleaſed to Inſtruct Me to give His Royal Conſent to ſuch Regulations therein as you ſhal think juſt and equitable.</p>
+            <p>And there having been ſeveral Complaints made to His <hi>Majeſty,</hi> of the trouble which Merchants of this Kingdom meet with in the matter of the Staple and Trade with the <hi>Netherlands,</hi> I am fully inſtructed to Give His Conſent to what you ſhall Adviſe as Reaſonable, for the Redreſs thereof for the fu<g ref="char:EOLhyphen"/>ture.</p>
+            <p>And whereas His <hi>Majeſty</hi> is Informed of the great Prejudice which this Kingdom ſuffers by the Importation of <hi>Iriſh</hi> Cattel, Horſes and Victual: I am alſo fully Inſtructed, not only to give His Royal Aſſent to whatever may free you from that Abuſe in time-coming: But likewiſe to enquire into the Connivanees and Malverſations of thoſe who in times paſt have been entruſted to hinder and diſcover all ſuch illegal Importations, to the end that they may be puniſhed according to Law.</p>
+            <p>I am alſo to acquaint you that the King being Informed, that the want of an open Mint is a ſenſible prejudice to the Traffick of the Kingdom; I am therefore Impowered to give His Royal Aſſent to what the Wiſdom of this Parliament ſhall think Juſt and Reaſonable in that Point.</p>
+            <p>As His <hi>Majeſty</hi> in His Royal Prudence and Goodneſs intends to Promot the Trade of this Nation, by all poſſible and fit Methods, So He hath Com<g ref="char:EOLhyphen"/>manded Me to tell you, that He is not at this time to Demand any more Supplies or Impoſitions of any kind, notwithſtanding of the great and ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="4" facs="tcp:66163:3"/>
+               <!-- PDF PAGE 3 -->Charge, which the Suppreſſing of the late horrid Rebellion has put Him to; Being fully convinced that your Affection and Alacrity have alrea<g ref="char:EOLhyphen"/>dy prompted you to give all that was convenient for you to ſpare. In Requital of which, He is Reſolved to Do all that He can for the Advance<g ref="char:EOLhyphen"/>ment of the Good and Intereſt, and Increaſing the Wealth of this Kingdom; A thing which His <hi>Majeſty</hi> is very ſenſible has been a long time too much ne<g ref="char:EOLhyphen"/>glected: Conceiving His Royal State, inſeparable from the Happineſs and Flooriſhing Proſperity of His People. And the King well knowing how heavy the Ceſs lyes upon the Land-rents, if it were not indiſpenſably neceſ<g ref="char:EOLhyphen"/>ſary, as well for your own ſafety, as the Support of His Government, would willingly diſcharge ſome part thereof: But this being impoſſible, I am fully Inſtructed to paſs any Law with your Advice and Conſent, that may give eaſe in that Matter, not diminiſhing the former <hi>Quota.</hi>
+            </p>
+            <p>I am further to Acquaint you, That His <hi>Majeſty</hi> has taken ſpecial Care to Inſtruct me fully for giving his Royal Conſent to all ſuch Law, and Re<g ref="char:EOLhyphen"/>gulations, as may ſecure exact Payment to the Countrey from all His Offi<g ref="char:EOLhyphen"/>cers and Souldiers in their Quarters, both Local and Tranſient, for the fu<g ref="char:EOLhyphen"/>ture; and to ſee exemplary Puniſhment Inflicted upon all Perſons who here<g ref="char:EOLhyphen"/>tofore have oppreſſed any of His loving People, by denying or detaining their juſt Dues from them.</p>
+            <p>And for Eaſing the Commons of many Oppreſſions, Alledged to be Com<g ref="char:EOLhyphen"/>mitted by Commiſſars, I am likewiſe Impowered to paſs an Act, with Your Advice and Conſent, for Regulating the ſame.</p>
+            <p>That which will Surpriſe You much, is, That as the King is Solicitous to Provide for the Security of this Kingdom, and to Encourage and Cheriſh his Dutiful and Loyal Subjects as His Obedient Children, ſo as a Tender hearted and Compaſſionate Father is willing and ready to Forgive, and Mercifully to Pardon the unexcuſable Faults and Crimes of ſuch as have behaved them<g ref="char:EOLhyphen"/>ſelves Undutifully, and even Rebelliouſly againſt Him. And therefore to ſettle and quiet the Minds of His People, and once more to drive away the Fears of the Guilty, by delivering them from their Apprehenſions of that Puniſhment which they have ſo juſtly Deſerved, He hath Graciouſly been pleaſed to Inſtruct Me, to paſs His full and ample Indemnity, with ſome few neceſſary and reaſonable Exceptions, for all paſt Crimes and Miſ<g ref="char:EOLhyphen"/>demeanors whatſoever; which may Convince the World that His <hi>Majeſty</hi> delights by ſweet and gentle methods of Mercy and Lenity to reduce all to Duty and Obedience, and that nothing but their own Perverſneſs and In<g ref="char:EOLhyphen"/>curable Obſtinacy in Evil, can force from Him that juſt Severity which ſome<g ref="char:EOLhyphen"/>times becomes neceſſary for the Safety of His People and Government; though contrary to His Princely and Merciful Temper.</p>
+            <p>And now, <hi>My Lords and Gentlemen,</hi> After ſo great and excellent De<g ref="char:EOLhyphen"/>ſigns for promoting the Honour, the Eaſe and Wealth of this Kingdom, after His Reſolution to pardon ſo many Enemies, and to free ſo many of the Guilty from further ſevere, but juſt Proſecutions, His <hi>Majeſty</hi> believ<g ref="char:EOLhyphen"/>eth that none will wonder, if He defire by the Advice and Content of this His Great Council, to give Eaſe and Security to ſome of His good Subjects of the Roman Catholick Religion, who have in all times been firm to the Monarchy, and ready to Sacrifice their Lives and Fortunes for the Service and Security of the Crown: So that His <hi>Majeſty,</hi> who ſo perfectly under<g ref="char:EOLhyphen"/>ſtands the Loyal and Dutiful Temper and Genius of <hi>Scotland,</hi> reſts fully perſwaded of Your ready and chearful Complyance with His Royal Deſire and Inclinations, tending ſo much to Your own Security and His Satisfaction; And that You will ſend me back to my Great and Royal Maſter with the good Tidings of the continued and dutiful Loyalty of this His Ancient Kingdom. By which you will ſhow your Selves the beſt and moſt affectionate Subjects, to the beſt, the incomparable and moſt Heroick Prince in the World.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
